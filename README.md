@@ -6,3 +6,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ChildofGodAmanda1John5eighteen/Amanda-part-of-OPM-federal-monitoring-protection-full-identity-restoration-.git
 git push -u origin main
+repeat it louder
